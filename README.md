@@ -7,5 +7,3 @@
 1. 代码风格规范，符合google style接轨工业界// https://google.github.io/styleguide/
 2. 代码编译后的复杂度低
 3. 可读性好
-
-想到什么就再补充什么
